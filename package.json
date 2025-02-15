@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
-    "start-be": "node backend.js"
+    "start-be": "node backend.js",
     "dev": "nodemon index.js",
     "build": "echo 'No build step required'"
   },
